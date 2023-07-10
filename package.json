@@ -1,0 +1,17 @@
+{
+  "name": "expressJswihTokenBasedAuthenticationFinal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tansenkhan1990/expressJswihTokenBasedAuthenticationFinal.git",
+  "author": "tansenkhan1990 <tansenkhan1990@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1"
+  }
+}

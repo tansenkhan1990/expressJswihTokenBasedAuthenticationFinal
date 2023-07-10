@@ -1,0 +1,35 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment
+# .env
+
+# Dependency directories
+node_modules/
+public/
+
+# Production build
+build/
+dist/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Mac specific files
+.DS_Store
+
+# Editor and OS generated files
+*.swp
+*~
+._*
+Thumbs.db
+ehthumbs.db
+desktop.ini
